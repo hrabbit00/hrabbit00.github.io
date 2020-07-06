@@ -1,1 +1,1 @@
-# hrabbit00.github.io/Főoldal.html
+# hrabbit00.github.io/főoldal.html
